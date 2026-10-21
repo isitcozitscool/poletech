@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.poletech-scaffolding.co.uk/sitemap.xml

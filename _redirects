@@ -1,0 +1,6 @@
+# Old Yell/Duda URLs -> new site. Switch to 301 once the dedicated pages exist.
+/our-projects                    /#projects   302
+/scaffolding-health-and-safety   /#safety     302
+/contact                         /#contact    302
+/careers-popup                   /#contact    302
+/index.html                      /            301
